@@ -1,0 +1,23 @@
+{
+  "name": "patika_pcatproject",
+  "version": "1.0.0",
+  "description": "Pcat project which patika nodejs course lecture",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ByTengaii/patika_pcatProject.git"
+  },
+  "keywords": [
+    "pcat",
+    "patika"
+  ],
+  "author": "gagir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ByTengaii/patika_pcatProject/issues"
+  },
+  "homepage": "https://github.com/ByTengaii/patika_pcatProject#readme"
+}
