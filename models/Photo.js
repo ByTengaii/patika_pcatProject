@@ -5,8 +5,8 @@ const Schema = mongoose.Schema;
 const PhotoSchema = new Schema({
     tittle: String,
     description: String,
-    img: String,
-    dataCreated: {
+    image: String,
+    dateCreated: {
         type : Date,
         default: Date.now,
     }
