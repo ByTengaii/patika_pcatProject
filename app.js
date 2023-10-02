@@ -15,7 +15,7 @@ const app = express();
 app.set('view engine', 'ejs');
 
 //* Connect to mongoDB database
-mongoose.connect('mongodb://localhost/pcat-test-db');
+mongoose.connect('mongodb+srv://agirgurkan06:pJnUtDIPsQLBNgqd@cluster0.la2jpus.mongodb.net/');
 
 //* Middle Wares
 app.use(express.static('public'));
