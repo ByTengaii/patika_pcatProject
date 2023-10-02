@@ -1,5 +1,8 @@
 {
   "name": "patika_pcatproject",
+  "engines": {
+    "node": ">=v18.18.0" 
+  },
   "version": "1.0.0",
   "description": "Pcat project which patika nodejs course lecture",
   "main": "app.js",
